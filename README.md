@@ -5,7 +5,7 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Power+BI+Developer;Machine+Learning+Learner;IIT+ISM+Dhanbad" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science;Machine+Learning+Learner;Power+BI;IIT+ISM+Dhanbad" />
 </p>
 
 <p align="center">
@@ -21,9 +21,13 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-🎓 **4th Year Civil Engineering Student @ IIT (ISM) Dhanbad**
+### 👨‍💻 Profile
+
+🎓 **4th Year Civil Engineering Student**  
+**IIT (ISM) Dhanbad**
 
 📊 **Aspiring Data Analyst**
 
@@ -34,27 +38,34 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 - Machine Learning
 - Data Visualization
 
-💬 **Ask Me About**
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Skills
+
+- Data Analysis
+- Dashboard Development
+- Machine Learning
+- Data Cleaning
+- Business Intelligence
+- Pandas
+- NumPy
+- Scikit-learn
+
+### 💬 Ask Me About
+
 - Python
 - SQL
-- Pandas
 - Power BI
+- Pandas
 - Machine Learning
 
 📧 **Email:**  
-rameshwarkawade07@gmail.com
+**rameshwarkawade07@gmail.com**
 
 </td>
 
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rameshwarkawade&theme=tokyonight&hide_border=true" width="400"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwarkawade&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
-
-</td>
 </tr>
 </table>
 
@@ -116,16 +127,6 @@ rameshwarkawade07@gmail.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshwarkawade&theme=tokyonight"/>
 
-</p>
-
-
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwarkawade&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
