@@ -8,17 +8,27 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 📊 Aspiring Data Analyst passionate about Data Science & Machine Learning
 </p>
 
-<img align="right" alt="Data Analytics" width="380"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdnYmNrbmM0M2RldWlnM2pzb3A2cHFjN2FxZGNzZ2Y3ZzB1NGk3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+<table>
+<tr>
+<td width="55%">
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Python, SQL, Power BI, Machine Learning, Data Visualization**
+- 🌱 Currently learning **Python, SQL, Power BI, Machine Learning**
 - 📊 Interested in **Data Analytics, Business Intelligence & Machine Learning**
-- 💬 Ask me about **Python, SQL, Power BI, Pandas, Machine Learning**
-- 📫 Email: **rameshwarkawade07@gmail.com**
+- 💬 Ask me about **Python, SQL, Pandas, Power BI**
+- 📧 Email: **rameshwarkawade07@gmail.com**
 
----
+</td>
+
+<td width="45%">
+
+<img align="center" alt="Coding" width="400"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Jzb2J1dTF3OHJybG84ZTFhM3QwMmQzMGljdG9rZXM2YmxwbjJmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect with Me
 
