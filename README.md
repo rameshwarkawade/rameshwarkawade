@@ -1,24 +1,80 @@
 <h1 align="center">Hi 👋, I'm Rameshwar Kawade</h1>
-<h3 align="center">Data Analyst | Python • SQL • Power BI | Machine Learning</h3>
+<h3 align="center">
+Data Analyst | Python | SQL | Power BI | Machine Learning
+</h3>
 
-<img align="right" alt="analyst" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJX7m21vptesl-TW6j3nUcKvXS7imaMDR91yqJpBRg5A&s=10">
-- 🌱 I’m currently learning **Python, SQL, Power BI, Machine Learning, Data Visualization**
-
-- 💬 Ask me about **Python, SQL, Power BI, Data Analytics**
-
-- 📫 How to reach me **rameshwarkawade07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rameshwar-kawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameshwar-kawade" height="30" width="40" /></a>
+<p align="center">
+🎓 4th Year Civil Engineering Student at IIT (ISM) Dhanbad <br>
+📊 Aspiring Data Analyst passionate about Data Science & Machine Learning
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="right" alt="Data Analytics" width="380"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdnYmNrbmM0M2RldWlnM2pzb3A2cHFjN2FxZGNzZ2Y3ZzB1NGk3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Python, SQL, Power BI, Machine Learning, Data Visualization**
+- 📊 Interested in **Data Analytics, Business Intelligence & Machine Learning**
+- 💬 Ask me about **Python, SQL, Power BI, Pandas, Machine Learning**
+- 📫 Email: **rameshwarkawade07@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<a href="https://linkedin.com/in/rameshwar-kawade">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshwarkawade&show_icons=true&locale=en&layout=compact" alt="rameshwarkawade" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshwarkawade&show_icons=true&locale=en" alt="rameshwarkawade" /></p>
+## 💻 Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshwarkawade&" alt="rameshwarkawade" /></p>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,c,cpp,git,github,vscode"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 📈 FinanceIQ Dashboard (Power BI)
+- 🤖 Customer Churn Prediction
+- 📊 CodSoft Data Analytics Internship
+- 🚢 Titanic Data Cleaning
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rameshwarkawade&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwarkawade&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshwarkawade&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=rameshwarkawade&label=Profile%20Views&color=0e75b6&style=flat)
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
