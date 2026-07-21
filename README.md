@@ -24,7 +24,7 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 <td width="45%">
 
 <img align="center" alt="Coding" width="400"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Jzb2J1dTF3OHJybG84ZTFhM3QwMmQzMGljdG9rZXM2YmxwbjJmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJX7m21vptesl-TW6j3nUcKvXS7imaMDR91yqJpBRg5A&s=10">
 
 </td>
 </tr>
