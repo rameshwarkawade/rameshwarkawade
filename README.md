@@ -1,80 +1,116 @@
 <h1 align="center">Hi 👋, I'm Rameshwar Kawade</h1>
+
 <h3 align="center">
 Data Analyst | Python | SQL | Power BI | Machine Learning
 </h3>
 
 <p align="center">
-🎓 4th Year Civil Engineering Student at IIT (ISM) Dhanbad <br>
-📊 Aspiring Data Analyst passionate about Data Science & Machine Learning
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Science+Enthusiast;Power+BI+Developer;Machine+Learning+Learner;IIT+ISM+Dhanbad" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Rameshwar+Kawade;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast">
+<b>Turning Data into Insights 📊</b>
 </p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380">
+</p>
+---
+
+## 🚀 About Me
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+🎓 **4th Year Civil Engineering Student @ IIT (ISM) Dhanbad**
 
-### 🚀 About Me
+📊 **Aspiring Data Analyst**
 
-- 🎓 4th Year Civil Engineering Student @ IIT (ISM) Dhanbad
-- 📊 Aspiring Data Analyst
-- 💻 Python | SQL | Power BI | Machine Learning
-- 📫 rameshwarkawade07@gmail.com
+🌱 **Currently Learning**
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Visualization
+
+💬 **Ask Me About**
+- Python
+- SQL
+- Pandas
+- Power BI
+- Machine Learning
+
+📧 **Email:**  
+rameshwarkawade07@gmail.com
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rameshwarkawade&theme=tokyonight&hide_border=true" width="400"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwarkawade&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 
 </td>
-
 </tr>
 </table>
 
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/rameshwar-kawade">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-</p>
-
 ---
 
-## 💻 Languages & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,c,cpp,git,github,vscode"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 📈 FinanceIQ Dashboard (Power BI)
-- 🤖 Customer Churn Prediction
-- 📊 CodSoft Data Analytics Internship
-- 🚢 Titanic Data Cleaning
-
----
-
-## 📊 GitHub Statistics
+# 💻 Tech Stack
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rameshwarkawade&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwarkawade&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,c,cpp,git,github,vscode"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+⭐ Customer Churn Prediction
+
+⭐ FinanceIQ Dashboard
+
+⭐ CodSoft Data Analytics Internship
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rameshwarkawade07@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+
 
 <p align="center">
 
@@ -82,14 +118,26 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 
 </p>
 
+
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwarkawade&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=rameshwarkawade&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=rameshwarkawade&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
