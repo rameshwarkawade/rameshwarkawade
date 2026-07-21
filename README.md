@@ -93,13 +93,11 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-⭐ Customer Churn Prediction
-
-⭐ FinanceIQ Dashboard
-
-⭐ CodSoft Data Analytics Internship
+- 🚀 **[Customer Churn Prediction](https://github.com/rameshwarkawade/Customer-Churn-Prediction)**
+- 📊 **[FinanceIQ Dashboard](https://github.com/rameshwarkawade/FinanceIQ-Dashboard)**
+- 💼 **[CodSoft Data Analytics Internship](https://github.com/rameshwarkawade/CODSOFT_TASKSNO)**
 
 ---
 
