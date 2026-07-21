@@ -8,25 +8,30 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 📊 Aspiring Data Analyst passionate about Data Science & Machine Learning
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Rameshwar+Kawade;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast">
+</p>
+
 <table>
 <tr>
-<td width="55%">
 
-## 🚀 About Me
+<td width="50%">
 
-- 🌱 Currently learning **Python, SQL, Power BI, Machine Learning**
-- 📊 Interested in **Data Analytics, Business Intelligence & Machine Learning**
-- 💬 Ask me about **Python, SQL, Pandas, Power BI**
-- 📧 Email: **rameshwarkawade07@gmail.com**
+### 🚀 About Me
+
+- 🎓 4th Year Civil Engineering Student @ IIT (ISM) Dhanbad
+- 📊 Aspiring Data Analyst
+- 💻 Python | SQL | Power BI | Machine Learning
+- 📫 rameshwarkawade07@gmail.com
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 </td>
 
-<td width="45%">
-
-<img align="center" alt="Coding" width="400"
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJX7m21vptesl-TW6j3nUcKvXS7imaMDR91yqJpBRg5A&s=10">
-
-</td>
 </tr>
 </table>
 
